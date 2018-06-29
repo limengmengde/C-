@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+	int a,b,c,d,m;
+	printf("请输入四个数：");
+	scanf("%d,%d,%d,%d",&a,&b,&c,&d) ;
+	printf("a=%d,b=%d,c=%d,d=%d");
+	if(a<b) m1=a, m2=b;
+	else m1=b m2=a ;
+	if(m1>c) m1=c 
+}
